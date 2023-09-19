@@ -1,0 +1,10 @@
+C:\Users\L e n o v o\source\repos\abouttugas\bin\Debug\abouttugas.exe.config
+C:\Users\L e n o v o\source\repos\abouttugas\bin\Debug\abouttugas.exe
+C:\Users\L e n o v o\source\repos\abouttugas\bin\Debug\abouttugas.pdb
+C:\Users\L e n o v o\source\repos\abouttugas\obj\Debug\abouttugas.csproj.AssemblyReference.cache
+C:\Users\L e n o v o\source\repos\abouttugas\obj\Debug\abouttugas.Properties.Resources.resources
+C:\Users\L e n o v o\source\repos\abouttugas\obj\Debug\abouttugas.csproj.GenerateResource.cache
+C:\Users\L e n o v o\source\repos\abouttugas\obj\Debug\abouttugas.csproj.CoreCompileInputs.cache
+C:\Users\L e n o v o\source\repos\abouttugas\obj\Debug\abouttugas.exe
+C:\Users\L e n o v o\source\repos\abouttugas\obj\Debug\abouttugas.pdb
+C:\Users\L e n o v o\source\repos\abouttugas\obj\Debug\abouttugas.informatiion.resources
