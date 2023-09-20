@@ -1,0 +1,10 @@
+C:\Users\L e n o v o\source\repos\regis\bin\Debug\regis.exe.config
+C:\Users\L e n o v o\source\repos\regis\bin\Debug\regis.exe
+C:\Users\L e n o v o\source\repos\regis\bin\Debug\regis.pdb
+C:\Users\L e n o v o\source\repos\regis\obj\Debug\regis.csproj.AssemblyReference.cache
+C:\Users\L e n o v o\source\repos\regis\obj\Debug\regis.Properties.Resources.resources
+C:\Users\L e n o v o\source\repos\regis\obj\Debug\regis.regis.resources
+C:\Users\L e n o v o\source\repos\regis\obj\Debug\regis.csproj.GenerateResource.cache
+C:\Users\L e n o v o\source\repos\regis\obj\Debug\regis.csproj.CoreCompileInputs.cache
+C:\Users\L e n o v o\source\repos\regis\obj\Debug\regis.exe
+C:\Users\L e n o v o\source\repos\regis\obj\Debug\regis.pdb
